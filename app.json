@@ -1,0 +1,14 @@
+{
+    "name": "HelloKee",
+    "description": "Deploy HelloKee on Heroku.",
+    "keywords": ["HelloKee"],
+    "env": {
+        "UUID": {
+            "description": "YOUR V2Ray UUID¡Ô(¨‰©n¨‰)¡Ô",
+            "value": "<--Enter your UUID!(¤Ã ¡ã§¥ ¡ã;)¤Ã-->"
+        }
+    },
+    "website": "£¼£¨£Þ£­£Þ£©£¾",
+    "repository": "HelloKee",
+    "stack": "container"
+}
