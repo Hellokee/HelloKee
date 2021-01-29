@@ -4,11 +4,11 @@
     "keywords": ["HelloKee"],
     "env": {
         "UUID": {
-            "description": "YOUR V2Ray UUID¡Ô(¨‰©n¨‰)¡Ô",
-            "value": "<--Enter your UUID!(¤Ã ¡ã§¥ ¡ã;)¤Ã-->"
+            "description": "YOUR V2Ray UUID",
+            "value": "<--Enter your UUID!-->"
         }
     },
-    "website": "£¼£¨£Þ£­£Þ£©£¾",
+    "website": "Â£Â¼Â£Â¨Â£ÃžÂ£Â­Â£ÃžÂ£Â©Â£Â¾",
     "repository": "HelloKee",
     "stack": "container"
 }
